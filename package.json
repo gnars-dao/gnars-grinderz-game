@@ -1,0 +1,12 @@
+{
+  "name": "sk8border",
+  "type": "3d",
+  "uuid": "fb380ad6-71b4-4bdc-9dce-137d0186e55c",
+  "version": "3.2.0",
+  "creator": {
+    "version": "3.2.0"
+  },
+  "dependencies": {
+    "web3": "^1.6.1"
+  }
+}

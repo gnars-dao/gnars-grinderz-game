@@ -1,0 +1,49 @@
+[
+  {
+    "__type__": "cc.AnimationClip",
+    "_name": "animation",
+    "_objFlags": 0,
+    "_native": "",
+    "sample": 60,
+    "speed": 1,
+    "wrapMode": 2,
+    "events": [],
+    "enableTrsBlending": false,
+    "_duration": 2,
+    "_keys": [
+      [
+        0,
+        0.6666666666666666,
+        1.3333333333333333,
+        2
+      ]
+    ],
+    "_stepness": 0,
+    "_curves": [
+      {
+        "modifiers": [
+          {
+            "__id__": 1
+          },
+          "string"
+        ],
+        "data": {
+          "keys": 0,
+          "values": [
+            "Please wait.",
+            "Please wait..",
+            "Please wait...",
+            "Please wait."
+          ],
+          "easingMethods": {}
+        }
+      }
+    ],
+    "_commonTargets": [],
+    "_hash": 4294551598
+  },
+  {
+    "__type__": "cc.animation.ComponentPath",
+    "component": "cc.Label"
+  }
+]

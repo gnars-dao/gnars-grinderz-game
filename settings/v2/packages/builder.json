@@ -1,0 +1,15 @@
+{
+  "__version__": "1.2.8",
+  "splash-setting": {
+    "url": "project://assets/sprites/logo.png",
+    "displayRatio": 0.1,
+    "totalTime": 3000,
+    "clearColor": {
+      "x": 0.88,
+      "y": 0.88,
+      "z": 0.88,
+      "w": 1
+    },
+    "displayWatermark": false
+  }
+}
